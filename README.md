@@ -16,8 +16,8 @@ I enjoy C++, Python, Java and running a homelab with Proxmox.
 
 ### projects
 
-- **[Robot Equipment Logger](https://github.com/gianmsne/robot-logger)** ‣ C++ CLI + SQLite tool for tracking RMIT RedbackBots equipment, with student ID-based borrow/return logging.
-- **[Homelab](https://github.com/gianmsne/homelab)** ‣ Proxmox + Debian services (Pi-hole, Uptime Kuma), deployment automated with Linux scripting
+- **[Robot Equipment Logger](https://github.com/gianmsne/robot-logger)** ‣ C++ CLI & SQLite tool for tracking RMIT RedbackBots equipment, with student ID-based borrow/return logging.
+- **[Homelab](https://github.com/gianmsne/homelab)** ‣ Personal homelab documentation for learning virtualisation, self-hosting, and networking fundamentals.
 
 ### contact
 
