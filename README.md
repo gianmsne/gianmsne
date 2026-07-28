@@ -25,9 +25,8 @@ robot-equipment-logger/  homelab/  minimal-pomodoro-cpp/
 ```
 ### projects
 
-- **[Robot Equipment Logger](https://github.com/gianmsne/robot-equipment-logger)** — C++ CLI + SQLite tool for tracking RMIT RedbackBots equipment, with student ID-based borrow/return logging.
-- **Homelab** — Proxmox + Debian services (Pi-hole, Uptime Kuma), deployment automated with Linux scripting.
-- **[Minimal Pomodoro App](https://github.com/gianmsne/minimal-pomodoro-cpp)** — lightweight Pomodoro timer built with C++/Qt.
+- **[Robot Equipment Logger](https://github.com/gianmsne/robot-logger)** ‣ C++ CLI + SQLite tool for tracking RMIT RedbackBots equipment, with student ID-based borrow/return logging.
+- **[Homelab](https://github.com/gianmsne/homelab)** ‣ Proxmox + Debian services (Pi-hole, Uptime Kuma), deployment automated with Linux scripting
 
 ### contact
 
