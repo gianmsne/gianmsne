@@ -10,18 +10,8 @@ gianluca@github ~ % cowsay Hello!
                 ||     ||
                 
 gianluca@github ~ % whoami
-I'm Gianluca. Studying CompSci @ RMIT University, Melbourne AUS
-
-gianluca@github ~ % cat about.txt
-Third-year Computer Science student into software engineering, networking,
-and self-hosting. I enjoy C++, Python, Java and running a homelab
-with Proxmox.
-
-gianluca@github ~ % ls skills/
-python  c++  java  sqlite  linux  unix  proxmox  git  html/css
-
-gianluca@github ~ % ls projects/
-robot-equipment-logger/  homelab/
+I'm Gianluca. Studying CompSci @ RMIT University, Melbourne AUS.
+I enjoy C++, Python, Java and running a homelab with Proxmox.
 ```
 
 ### projects
