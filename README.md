@@ -1,16 +1,34 @@
-## Hi there 👋
+```
+gianluca@github ~ % cowsay Hello!
+ ________
+< Hello! >
+ --------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+                
+gianluca@github ~ % whoami
+CS student @ RMIT University, Melbourne AUS
 
-<!--
-**gianmsne/gianmsne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+gianluca@github ~ % cat about.txt
+Third-year Computer Science student into software engineering, networking,
+and self-hosting. Building tools in C++ and Python and running a homelab
+on Proxmox.
 
-Here are some ideas to get you started:
+gianluca@github ~ % ls skills/
+python  c++  java  sqlite  linux  unix  proxmox  git  html/css
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+gianluca@github ~ % ls projects/
+robot-equipment-logger/  homelab/  minimal-pomodoro-cpp/
+```
+### projects
+
+- **[Robot Equipment Logger](https://github.com/gianmsne/robot-equipment-logger)** — C++ CLI + SQLite tool for tracking RMIT RedbackBots equipment, with student ID-based borrow/return logging.
+- **Homelab** — Proxmox + Debian services (Pi-hole, Uptime Kuma), deployment automated with Linux scripting.
+- **[Minimal Pomodoro App](https://github.com/gianmsne/minimal-pomodoro-cpp)** — lightweight Pomodoro timer built with C++/Qt.
+
+### contact
+
+📧 [gianlucamons@gmail.com](mailto:gianlucamons@gmail.com) · 💼 [linkedin.com/in/gianlucamons](https://linkedin.com/in/gianlucamons)
