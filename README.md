@@ -10,19 +10,20 @@ gianluca@github ~ % cowsay Hello!
                 ||     ||
                 
 gianluca@github ~ % whoami
-CS student @ RMIT University, Melbourne AUS
+I'm Gianluca. Studying CompSci @ RMIT University, Melbourne AUS
 
 gianluca@github ~ % cat about.txt
 Third-year Computer Science student into software engineering, networking,
-and self-hosting. Building tools in C++ and Python and running a homelab
-on Proxmox.
+and self-hosting. I enjoy C++, Python, Java and running a homelab
+with Proxmox.
 
 gianluca@github ~ % ls skills/
 python  c++  java  sqlite  linux  unix  proxmox  git  html/css
 
 gianluca@github ~ % ls projects/
-robot-equipment-logger/  homelab/  minimal-pomodoro-cpp/
+robot-equipment-logger/  homelab/
 ```
+
 ### projects
 
 - **[Robot Equipment Logger](https://github.com/gianmsne/robot-logger)** ‣ C++ CLI + SQLite tool for tracking RMIT RedbackBots equipment, with student ID-based borrow/return logging.
